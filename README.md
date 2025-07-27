@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my tryal Git Repository
 <br/>
-Author: Manu Khan
+Author: Manu (Apna College)
